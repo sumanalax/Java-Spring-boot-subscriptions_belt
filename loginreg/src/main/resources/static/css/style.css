@@ -1,0 +1,36 @@
+@charset "UTF-8";
+
+
+
+
+.flex{
+	display:flex;
+}
+
+.error{
+	color:#e74c3c;
+}
+
+.success{
+	color:#2ecc71;
+}
+
+.newForm{
+	padding:1%;
+	margin:1%;
+	width:30%;
+}
+
+.newForm input{
+	width:70%;
+	height:32px;
+	margin:1%;
+	padding:1%;
+}
+
+
+
+}
+.white{
+	color:rgb(255,255,255);
+}
